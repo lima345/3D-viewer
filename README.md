@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Presentation_BIM-181717?style=for-the-badge&logo=unity&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Presentation_VEWER-181717?style=for-the-badge&logo=unity&logoColor=white" height="48" />
   <br/>
   Presentation • 3D Web Viewer
 </h1>
