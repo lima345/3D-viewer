@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-Presentation&nbsp;BIM-181717?style=for-the-badge&logo=data:image/svg+xml;base64," height="32" />
+  <img src="https://img.shields.io/badge/Presentation_BIM-181717?style=for-the-badge&logo=unity&logoColor=white" height="48" />
   <br/>
   Presentation • 3D Web Viewer
 </h1>
@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <a href="#confianca">
-        <img src="https://img.shields.io/badge/Confiança-do Cliente-00bcd4?style=for-the-badge&logo=trustpilot" />
+        <img src="https://img.shields.io/badge/Confiança_do Cliente-00bcd4?style=for-the-badge&logo=trustpilot" />
       </a>
     </td>
     <td align="center">
