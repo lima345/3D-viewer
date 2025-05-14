@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/-Presentation&nbsp;BIM-181717?style=for-the-badge&logo=data:image/svg+xml;base64," height="32" />
   <br/>
-  Presentation BIM • 3D Web Viewer
+  Presentation • 3D Web Viewer
 </h1>
 
 <p align="center">
