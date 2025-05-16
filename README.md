@@ -66,16 +66,3 @@ Clientes entendem o valor mais rápido; equipes comerciais gastam menos tempo em
 Trackeie interações (giro, zoom, hotspot) para qualificar leads com base no interesse genuíno em cada componente do modelo.
 
 ---
-
-## 🛠️ Como usar este repositório
-
-```bash
-# clone
-git clone https://github.com/<your-org>/presentation-bim.git
-cd presentation-bim
-
-# instale a CLI do Firebase, se necessário
-npm i -g firebase-tools
-
-# publique seu build Unity WebGL (pasta webgl-build)
-firebase deploy
